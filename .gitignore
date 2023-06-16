@@ -1,0 +1,7 @@
+__pycache__
+.DS_Store
+.env
+.wav
+.mp3
+output.wav
+gptalk-384003-3c783cf961c7.json

@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+google-cloud-texttospeech = "*"
+openai = "*"
+python-dotenv = "*"
+speechrecognition = "*"
+pyaudio = "*"
+google-cloud-storage = "*"
+google-cloud-speech = "*"
+pydub = "*"
+gtts = "*"
+simpleaudio = "*"
+gradio = "*"
+
+[dev-packages]
+autopep8 = "*"
+
+[requires]
+python_version = "3.10"
